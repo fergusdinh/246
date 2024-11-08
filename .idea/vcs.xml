@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/app/code/Lof/MarketPlace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/app/code/Lof/RequestForQuote" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/app/code/Lofmp/SplitCart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/app/code/Ves/All" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/app/code/Ves/BaseWidget" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/app/code/Ves/PageBuilder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/app/code/Ves/Setup" vcs="Git" />
+  </component>
+</project>
